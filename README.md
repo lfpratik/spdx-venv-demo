@@ -11,7 +11,7 @@
     <your_workspace_dir>$ git clone git@github.com:lfpratik/spdx-venv-demo.git
 
 ###### Goto project dir
-    <your_workspace_dir>$$ cd spdx-venv-demo
+    <your_workspace_dir>$ cd spdx-venv-demo
 
 ###### Create a virtul env for project
     spdx-venv-demo$ python -m venv venv     # for python2
