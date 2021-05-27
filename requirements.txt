@@ -1,24 +1,24 @@
-Flask=">=0.12.2"
-Flask-RESTful=">=0.3.6"
-flask-restful-swagger-2=">=0.35"
-flask-swagger-ui=">=3.6.0"
-iso8601="*"
-marshmallow="<3.0"
-psycopg2-binary="*"
-requests="*"
-gunicorn="*"
-python-jose={extras = ["cryptography"], version = "*"}
-python-dateutil="*"
-click="*"
-flask-cors="*"
-gitpython="*"
-requests-cache="*"
-redis="*"
-markdown="*"
-"boto3"="*"
-arnparse="*"
-structlog="*"
-docker="*"
-requests-mock = "*"
-tox = "*"
-moto = "*"
+Flask
+Flask-RESTful
+flask-restful-swagger-2
+flask-swagger-ui
+iso8601
+marshmallow
+psycopg2-binary
+requests
+gunicorn
+python-jose
+python-dateutil
+click
+flask-cors
+gitpython
+requests-cache
+redis
+markdown
+boto3
+arnparse
+structlog
+docker
+requests-mock
+tox
+moto
