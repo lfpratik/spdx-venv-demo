@@ -5,20 +5,24 @@
 ###### Clone Project
 
     https client: 
-    git clone https://github.com/lfpratik/spdx-venv-demo.git
+    <your_workspace_dir>$ git clone https://github.com/lfpratik/spdx-venv-demo.git
     
     ssh client: 
-    git clone git@github.com:lfpratik/spdx-venv-demo.git
+    <your_workspace_dir>$ git clone git@github.com:lfpratik/spdx-venv-demo.git
 
 ###### Goto project dir
-    cd spdx-venv-demo
+    <your_workspace_dir>$$ cd spdx-venv-demo
 
 ###### Create a virtul env for project
-    python -m venv venv     # for python2
-    python3 -m venv venv    # for python3
+    spdx-venv-demo$ python -m venv venv     # for python2
+    spdx-venv-demo$ python3 -m venv venv    # for python3
 
 ###### Activate the virtul env
-    source venv/bin/active
+    spdx-venv-demo$ source venv/bin/active
+
+##### Activate the virtul env
+    (venv) spdx-venv-demo$ pip install -r requirements     # for python2
+    (venv) spdx-venv-demo$ pip3 install -r requirements    # for python3
 
 ###### Deactivate
-    deactivate
+    (venv) spdx-venv-demo$ deactivate
