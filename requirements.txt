@@ -1,9 +1,9 @@
-Flask
-Flask-RESTful
-flask-restful-swagger-2
-flask-swagger-ui
+Flask>=0.12.2
+Flask-RESTful>=0.3.6
+flask-restful-swagger-2>=0.35
+flask-swagger-ui>=3.6.0
 iso8601
-marshmallow
+marshmallow<3.0
 psycopg2-binary
 requests
 gunicorn
