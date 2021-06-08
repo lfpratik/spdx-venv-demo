@@ -13,7 +13,7 @@ except Exception:
 
 setup(
     # Name of the package
-    name="spdx-pipenv-demo",
+    name="spdx-venv-demo",
 
     # Packages to include into the distribution
     packages=find_packages('.'),
