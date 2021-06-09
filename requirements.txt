@@ -22,3 +22,4 @@ docker
 requests-mock
 tox
 moto
+-e git+https://github.com/chaoss/grimoirelab-toolkit/#egg=grimoirelab-toolkit
