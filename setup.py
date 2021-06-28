@@ -20,7 +20,7 @@ setup(
 
     # Start with a small number and increase it with every change you make
     # https://semver.org
-    version='0.0.1',
+    version='0.1.0',
 
     # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     # For example: MIT
@@ -69,7 +69,7 @@ setup(
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.5",
-        "Programming Language :: Python :: 3.6"
+        "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
